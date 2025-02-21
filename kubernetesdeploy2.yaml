@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: insurance-eta-container
-        image: rogue234/insurance-project:latest
+        image: rogue234/insurance-eta-app:latest
         ports:
         - containerPort: 8081
 ---
